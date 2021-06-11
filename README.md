@@ -21,8 +21,10 @@ Sybase | Oracle | SQL server | Teradata | DB2 UDB
 ----------------------|-------------------|-------------------|-------------------|----------------------
 ### Metodos agiles
 Scrum
+-------------------|
 ### Administracion de los aplicativos
 Star y Murex
+-------------------|
 ### Office avanzado
 ### Idiomas
 Ingles nivel medio | Frances nivel bajo

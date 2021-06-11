@@ -2,10 +2,10 @@ Eva87
 
 # Hi, I'm Eva María Hoyo 
 
-### I'm currently working on microinformatica URJC
+### I'm currently working on microinformatica URJC  :computer:
 
-## Technologies
-
+## Technologies  :scroll:
+ 
 ### Programacion de alto nivel
 Python | C | C++ | Java | Android | Arduino | Docker
 -------------------|----------------------|-------------------|-------------------|-------------------|----------------------|-----------------
@@ -23,6 +23,7 @@ Sybase | Oracle | SQL server | Teradata | DB2 UDB
 Scrum
 ### Administracion de los aplicativos
 Star y Murex
-Office avanzado
-Ingles nivel medio
-Frances nivel bajo
+### Office avanzado
+### Idiomas
+Ingles nivel medio | Frances nivel bajo
+-------------------|----------------------

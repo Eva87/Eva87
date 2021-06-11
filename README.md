@@ -7,18 +7,22 @@ Eva87
 ## Technologies
 
 ### Programacion de alto nivel
-Python | C | C++ | Java | Android | Arduino | Docker*
-VBSCRIPT | CSS | HTML | Haskell | Scratch | Unreal Engine | VB.Net*
+Python | C | C++ | Java | Android | Arduino | Docker
+-------------------|----------------------|-------------------|-------------------|-------------------|----------------------|-----------------
+VBSCRIPT | VB.Net | CSS | HTML | Haskell | Scratch | Unreal Engine
+----------------------|-------------------|-------------------
 ### Programacion de bajo nivel
-VHDL | MIPS32 | MIPS64*
+VHDL | MIPS32 | MIPS64
 ### Programacion de la Shell 
-Windows | Linux | HPUX*
+-------------------|-------------------|----------------------
+Windows | Linux | HPUX
 ### Administracion de Bases de Datos
-Sybase | Oracle | SQL server | Teradata | DB2 UDB*
+----------------------|-------------------|-------------------|-------------------|----------------------
+Sybase | Oracle | SQL server | Teradata | DB2 UDB
 ### Metodos agiles
-Scrum*
+Scrum
 ### Administracion de los aplicativos
-Star y Murex*
-Office avanzado*
-Ingles nivel medio*
-Frances nivel bajo*
+Star y Murex
+Office avanzado
+Ingles nivel medio
+Frances nivel bajo

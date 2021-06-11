@@ -10,15 +10,15 @@ Eva87
 Python | C | C++ | Java | Android | Arduino | Docker
 -------------------|----------------------|-------------------|-------------------|-------------------|----------------------|-----------------
 VBSCRIPT | VB.Net | CSS | HTML | Haskell | Scratch | Unreal Engine
-----------------------|-------------------|-------------------
 ### Programacion de bajo nivel
 VHDL | MIPS32 | MIPS64
-### Programacion de la Shell 
 -------------------|-------------------|----------------------
+### Programacion de la Shell 
 Windows | Linux | HPUX
+-------------------|-------------------|----------------------
 ### Administracion de Bases de Datos
-----------------------|-------------------|-------------------|-------------------|----------------------
 Sybase | Oracle | SQL server | Teradata | DB2 UDB
+----------------------|-------------------|-------------------|-------------------|----------------------
 ### Metodos agiles
 Scrum
 ### Administracion de los aplicativos

@@ -30,5 +30,6 @@ Star y Murex
 Ingles nivel medio | Frances nivel bajo
 -------------------|----------------------
 
-### Sello Grado en Ingenieria de Computadores (Cursando)
+
+- Sello Grado en Ingenieria de Computadores (Cursando)
 ![Eva87](euro_inf_seal_bachelor_light-background_1.PNG "uml")

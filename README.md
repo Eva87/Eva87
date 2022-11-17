@@ -2,7 +2,7 @@ Eva87
 
 # Hi, I'm Eva María Hoyo 
 
-### I'm currently working on microinformatica URJC  :computer:
+### I'm currently working on corporate applications URJC  :computer:
 
 ## Technologies  :scroll:
  

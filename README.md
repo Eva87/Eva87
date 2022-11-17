@@ -7,9 +7,9 @@ Eva87
 ## Technologies  :scroll:
  
 ### Programacion de alto nivel
-Python | C | C++ | Java | Android | Arduino | Docker
+Python | C | C++ | Java | Android | Arduino | Docker | PHP | Javascript 
 -------------------|----------------------|-------------------|-------------------|-------------------|----------------------|-----------------
-VBSCRIPT | VB.Net | CSS | HTML | Haskell | Scratch | Unreal Engine
+VBSCRIPT | VB.Net | CSS | HTML | Haskell | Scratch | Unreal Engine | Ajax
 ### Programacion de bajo nivel
 VHDL | MIPS32 | MIPS64
 -------------------|-------------------|----------------------
@@ -27,9 +27,9 @@ Star y Murex
 -------------------|
 ### Office avanzado
 ### Idiomas
-Ingles nivel medio | Frances nivel bajo
+Ingles nivel B1 | Frances nivel bajo
 -------------------|----------------------
 
 
-- Sello Grado en Ingenieria de Computadores (Cursando)
+- Sello Grado en Ingenieria de Computadores 
 ![euro_inf](euro_inf.png)

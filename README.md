@@ -30,15 +30,13 @@ Star y Murex
 Ingles nivel B1 | Frances nivel bajo
 -------------------|----------------------
 
-
 - Sello Grado en Ingenieria de Computadores por la URJC
 ![euro_inf](euro_inf.png)
 - Curso Inteligencia Artificial por la UPM
 
--------------------|
-Disponible en Play Store JuegoConCrin una aplicacion diseñada para el aprendizaje de la lectoescritura por parte de los niños en acompañamiento con lo aprendido en el colegio. 
+- Disponible en Play Store JuegoConCrin una aplicacion diseñada para el aprendizaje de la lectoescritura por parte de los niños en acompañamiento con lo aprendido en el colegio. 
 https://play.google.com/store/search?q=juegoconcrin&c=apps&hl=es_CR&gl=US
--------------------|
-Publicado en la revista  IE Comunicaciones: Revista Iberoamericana de Informática Educativa
+
+- Publicado en la revista  IE Comunicaciones: Revista Iberoamericana de Informática Educativa
 https://dialnet.unirioja.es/servlet/articulo?codigo=8732467
 
